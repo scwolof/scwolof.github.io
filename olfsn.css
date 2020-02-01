@@ -1,0 +1,36 @@
+html {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #000000;
+}
+
+body {
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.olfsn-header {
+  background-color: #5c5b57;
+  font-size: 40px;
+  text-align: left;
+  color: white;
+  padding: 1px 0px 1px 20px;   
+}
+
+.olfsn-header-button {
+  background-color: #5c5b57;
+  border: none;
+  color: white;
+  padding: 1px 0px 1px 0px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.content {
+  padding: 20px;
+}
