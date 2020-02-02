@@ -1,10 +1,11 @@
 # Title
-Swedish meatballs
+swedish meatballs
 
 # Keywords
-meat meatballs swedish
+meat swedish meatballs
 
 # Image
+swedish_meatballs.png
 
 # Ingredients
 Meatballs:
@@ -29,5 +30,5 @@ Broth:
 * Fry the meatballs in butter. When they're cooked through, place them in a deep pan.
 * Mix the flour with the fat in the frying pan. Add the rest of the broth ingredients. Pour the liquid over the meatballs in the deep pan and let them simmer for a bit.
 
-# Serving
+# Note
 Serve with (a) mashed potatoes, peas and lingonberry sauce, or (b) creamed macaroni.

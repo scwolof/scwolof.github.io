@@ -1,0 +1,173 @@
+recipes_json = [
+    {
+        "image": "images/chicken_chorizo_paella.png",
+        "ingredients": [
+            "* 2 cloves garlic",
+            "* 1 onion",
+            "* 1 carrot",
+            "* Parsley",
+            "* Paprika",
+            "* 70g chorizo (Tesco finest)",
+            "* 2 chicken thighs",
+            "* 1 red pepper",
+            "* 1 tbsp tomato pure\u0301e",
+            "* 1 stock cube",
+            "* 300g paella rice",
+            "* 100g frozen peas",
+            "* 200g seafood e.g. frozen cooked prawns",
+            "* 1 lemon"
+        ],
+        "instructions": [
+            "* Peel and finely slice the garlic, onion and carrot.",
+            "* Slice the chorizo and chop the chicken into small chunks.",
+            "* Add a fair amount of oil into a big pan.",
+            "* Fry the chorizo first, this really brings out the flavour of the chorizo. Add the paprika whilst the chorizo is cooking.",
+            "* Add the onion, carrot and chicken and fry for around 5 minutes.",
+            "* Deseed and chop the pepper, and add to the pan to cook for another 5 minutes.",
+            "* Add the rice and stir continuously so the rice soaks up the flavour.",
+            "* Dissolve the stock cube in enough water, and add to the pan.",
+            "* Add the tomato pure\u0301e, parsley and lemon juice and season with salt and pepper.",
+            "* Add more paprika because paprika is gr8.",
+            "* Simmer until the rice is cooked, adding in the prawns and peas."
+        ],
+        "keywords": [
+            "chicken",
+            "chorizo",
+            "meat",
+            "paella",
+            "prawns",
+            "seafood"
+        ],
+        "name": "chicken_chorizo_paella",
+        "note": null,
+        "serves": "4",
+        "title": "Chicken and chorizo paella"
+    },
+    {
+        "image": null,
+        "ingredients": [
+            "* 400g beef (diced casserole meat)",
+            "* 1 packet smoked pancetta",
+            "* 100g shallots",
+            "* 2 garlic cloves",
+            "* 2 carrots",
+            "* 2 celery sticks",
+            "* 200ml port wine",
+            "* 150ml single cream",
+            "* 1 tsp mustard",
+            "* 2 tbsp lingonberry jam",
+            "* 1 tbsp apple cider vinegar",
+            "* Salt, pepper, parsley and thyme"
+        ],
+        "instructions": [
+            "* Roughly chop up the carrots and celery sticks. Chop up the cloves of garlic, and quarter the shallots.",
+            "* Melt butter in a large pan. Add the garlic, shallots, beef and pancetta and fry until the beef is brown on all sides. Add the carrot and celery towards the end.",
+            "* Add the port wine and bring to a boil. Stir in the mustard, vinegar, lingonberries and herbs and spices.",
+            "* Add the cream. Let it simmer for around 1 hour."
+        ],
+        "keywords": [
+            "beef",
+            "casserole",
+            "meat",
+            "port wine"
+        ],
+        "name": "port_wine_casserole",
+        "note": "Serve with boiled potatoes and/or some nice sourdough bread.",
+        "serves": null,
+        "title": "Port wine beef casserole"
+    },
+    {
+        "image": null,
+        "ingredients": [
+            "* 300g prawns",
+            "* 1 pepper",
+            "* 1 small courgette",
+            "* 1 clove of garlic",
+            "* 1 tbsp Tomato pur\u00e9e",
+            "* 1 tbsp Curry powder",
+            "* 200ml cream",
+            "* 75ml white wine"
+        ],
+        "instructions": [
+            "* Cut up the garlic, pepper and courgette. Fry in butter together with curry powder and tomato pur\u00e9e.",
+            "* Add cream and wine. Simmer for 5-10min.",
+            "* Add prawns."
+        ],
+        "keywords": [
+            "curry",
+            "pasta",
+            "prawn",
+            "seafood"
+        ],
+        "name": "curry_prawn_pasta",
+        "note": "Serve with pasta.",
+        "serves": "3",
+        "title": "Curry prawn pasta"
+    },
+    {
+        "image": "images/swedish_meatballs.png",
+        "ingredients": [
+            "Meatballs:",
+            "* 500g beef mince",
+            "* 500g pork mince",
+            "* 2 eggs",
+            "* 1 onion (grated)",
+            "* Garlic salt, black pepper and oregano",
+            "* 150ml milk",
+            "* 75ml bread crumbs",
+            "Broth:",
+            "* Flour",
+            "* 400ml beef stock",
+            "* 1 tbsp soy sauce",
+            "* (optional) some red wine"
+        ],
+        "instructions": [
+            "* Mix the milk and breadcrumbs in a large bowl, and let sit for approx 5min",
+            "* Add the rest of the meatball ingredients and mix everything together (get your hands in there!)",
+            "* Roll into small balls (dip your hands in water and place the balls on a wet cutting board)",
+            "* Fry the meatballs in butter. When they're cooked through, place them in a deep pan.",
+            "* Mix the flour with the fat in the frying pan. Add the rest of the broth ingredients. Pour the liquid over the meatballs in the deep pan and let them simmer for a bit."
+        ],
+        "keywords": [
+            "meat",
+            "meatballs",
+            "swedish"
+        ],
+        "name": "swedish_meatballs",
+        "note": "Serve with (a) mashed potatoes, peas and lingonberry sauce, or (b) creamed macaroni.",
+        "serves": null,
+        "title": "Swedish meatballs"
+    },
+    {
+        "image": "images/express_bacon_pasta.png",
+        "ingredients": [
+            "* 150g head of broccoli",
+            "* 1 onion",
+            "* 350g penne",
+            "* 300g smoked back bacon",
+            "* 150g basil pesto",
+            "* 150g cherry tomatoes, halved",
+            "* 25g pine nuts",
+            "* Parmesan"
+        ],
+        "instructions": [
+            "* Roughly chop the broccoli and onion.",
+            "* Boil the pasta and broccoli.",
+            "* While the pasta and broccoli are boiling, fry the onion and bacon in a little butter until golden.",
+            "* Add the tomatoes and fry for 2 minutes.",
+            "* Toast the pine nuts in a small frying pan.",
+            "* Add the cooked pasta and broccoli.",
+            "* Add the pesto and pine nuts and stir.",
+            "* Season to taste and add parmesan."
+        ],
+        "keywords": [
+            "bacon",
+            "meat",
+            "pasta"
+        ],
+        "name": "express_bacon_pasta",
+        "note": "Serve with a smile ;)",
+        "serves": "4-6",
+        "title": "Express bacon pasta"
+    }
+]

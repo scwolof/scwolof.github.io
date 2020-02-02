@@ -1,4 +1,3 @@
-var nbOptions = 8;
 var angleStart = -360;
 
 // jquery rotate animation

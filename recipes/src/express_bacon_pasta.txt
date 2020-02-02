@@ -1,0 +1,34 @@
+# Title
+Express bacon pasta
+
+# Keywords
+meat bacon pasta
+
+# Serves
+4-6
+
+# Image
+express_bacon_pasta.png
+
+# Ingredients
+* 150g head of broccoli
+* 1 onion
+* 350g penne
+* 300g smoked back bacon
+* 150g basil pesto
+* 150g cherry tomatoes, halved
+* 25g pine nuts
+* Parmesan
+
+# Instructions
+* Roughly chop the broccoli and onion.
+* Boil the pasta and broccoli.
+* While the pasta and broccoli are boiling, fry the onion and bacon in a little butter until golden.
+* Add the tomatoes and fry for 2 minutes.
+* Toast the pine nuts in a small frying pan.
+* Add the cooked pasta and broccoli.
+* Add the pesto and pine nuts and stir.
+* Season to taste and add parmesan.
+
+# Note
+Serve with a smile ;)
