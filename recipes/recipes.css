@@ -63,7 +63,7 @@
 /* ---- isotope ---- */
 
 .recipe-grid {
-  border: 1px solid #333;
+  border: none; /* 1px solid #333; */
 }
 
 /* clear fix */
@@ -82,8 +82,9 @@
   height: 300px;
   margin: 5px;
   padding: 10px;
-  background: #888;
+  background: #C4CDE4;
   color: #262524;
+  border-radius: 25px;
 }
 
 .recipe-item > * {
@@ -93,7 +94,7 @@
 
 .recipe-item .recipe-title {
   position: absolute;
-  left: 10px;
+  left: 15px;
   top: 10px;
   text-transform: none;
   letter-spacing: 0;
