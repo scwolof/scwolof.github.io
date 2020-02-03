@@ -1,4 +1,4 @@
-recipes_json = [
+var recipes_json = [
     {
         "image": "images/chicken_chorizo_paella.png",
         "ingredients": [
@@ -170,4 +170,4 @@ recipes_json = [
         "serves": "4-6",
         "title": "Express bacon pasta"
     }
-]
+];

@@ -121,7 +121,7 @@ def compile_recipes_json ():
     recipes = [get_formatted_recipe(file) for file in files]
     jsontxt = json.dumps(recipes, indent=4, sort_keys=True)
     with open('recipes.json', 'w') as f:
-        f.write('recipes_json = ' + str(jsontxt))
+        f.write('var recipes_json = ' + str(jsontxt) + ';')
 
 
 if __name__ == '__main__':
