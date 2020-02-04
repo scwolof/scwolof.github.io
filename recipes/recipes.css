@@ -175,3 +175,15 @@
   height: auto;
   width: auto;
 }
+
+/* Modal Content/Box */
+.modal-section-title {
+  font-size: 20px;
+  line-height: 5px;
+}
+
+/* Modal Content/Box */
+.modal-section-text {
+  font-size: 15px;
+  line-height: 17px;
+}

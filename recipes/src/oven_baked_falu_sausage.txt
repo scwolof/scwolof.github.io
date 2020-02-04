@@ -1,0 +1,34 @@
+# Title
+Oven-baked Falu sausage
+
+# Keywords
+meat falu sausage falukorv
+
+# Description
+The classic Swedish Falu sausage, ketchup-glazed and baked in the oven with cheese, onion and cherry tomatoes.
+
+# Image
+oven_baked_falu_sausage.png
+
+# Serves
+4
+
+# Ingredients
+* 1 Falu sausage
+* Grated cheese
+* 1 tbsp tomato ketchup
+* 1-2 yellow onions
+* Cherry tomatoes (approx. 12)
+* (optional) Dijon mustard
+
+# Instructions
+* Slice the onion and parboil them (boil in lightly salted water for ~5min)
+* Cut slits into the sausage, ~2cm apart and put the sausage in a greased oven dish.
+* (optional) Spread some Dijon mustard in the slits.
+* Put grated cheese in the slits.
+* Mix the ketchup with 25ml water and glaze the sausage.
+* Add the onions and cherry tomatoes (whole) to the oven dish.
+* Bake for ~30min. The surface of the sausage should be crispy.
+
+# Note
+Serve with mashed potatoes.

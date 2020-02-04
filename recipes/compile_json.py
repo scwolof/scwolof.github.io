@@ -57,7 +57,7 @@ def format_recipe (recipe):
     """
     Optional keys
     """
-    opt_keys = ['serves','image','ingredients','instructions','note']
+    opt_keys = ['description','image','serves','ingredients','instructions','note']
     add_keys = [k for k in opt_keys if not k in recipe.keys()]
     for k in add_keys:
         recipe[k] = None

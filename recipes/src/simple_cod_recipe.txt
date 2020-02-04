@@ -1,0 +1,32 @@
+# Title
+Simple cod recipe
+
+# Keywords
+fish cod
+
+# Description
+Cod fillets in a creamy sauce.
+
+# Image
+simple_cod.png
+
+# Serves
+4
+
+# Ingredients
+* ~600g fish, e.g. cod fillets
+* 200ml crème fraîche
+* ~100ml milk
+* 1 fish stock cube
+* 1 lemon
+* 2 tbsp chopped hazelnuts
+* Some grated parmesan
+* Some chopped (fresh) basil
+
+# Instructions
+* Mix the lemon's zest with black pepper and 1/2 lemon's juice. Rub this on the fish fillets.
+* Mix the crème fraîche, milk and stock cube in a wide pan. Bring to a boil. Put the fish fillets in the pan and let simmer for 5-10min.
+* Sprinkle hazelnuts, parmesan and basil on top.
+
+# Note
+Serve with mashed potatoes and broccoli.

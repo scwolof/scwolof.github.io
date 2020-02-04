@@ -1,0 +1,33 @@
+# Title
+Nikkaluokta soup
+
+# Keywords
+meat nikkaluokta soup
+
+# Description
+Swedish minced meat, white cabbage and leek soup. Hearty soup for a cold day.
+
+# Image
+nikkaluokta_soup.png
+
+# Serves
+4
+
+# Ingredients
+* ~300g minced (beef) meat
+* 400ml white cabbage (half small-ish mead)
+* 1 small-ish leek
+* A very generous teaspoon of mustard
+* 2 tbsp tomato purée
+* 2 bayleaves
+* 1.25-1.5 litres of water
+* 2-3 beef stock cubes
+* Parsley, soy sauce, salt and pepper
+
+# Instructions
+* Wash and thinly cut the leek and cabbage
+* Fry the minced meat in butter in a deep pan. Let the leek and cabbage fry with the minced meat for a bit.
+* Add mustard, tomato purée, bayleaves, water and stock cube. Season with parsley, soy sauce, salt and pepper. Boil for at least 10min.
+
+# Note
+Serve with bread and cheese.

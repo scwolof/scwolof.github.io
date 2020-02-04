@@ -1,0 +1,14 @@
+# Title
+Prawns with fried veg and couscous
+
+# Keywords
+prawns seafood veg vegetables couscous simple
+
+# Description
+Really simple recipe that can be varied in lots of ways. Can easily be made vegetarian by removing the prawns.
+
+# Image
+prawns_veg_couscous.png
+
+# Note
+Serve with a dash of sour cream or crème fraîche.

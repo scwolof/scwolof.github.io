@@ -1,0 +1,41 @@
+# Title
+Chicken & spinach lasagna
+
+# Keywords
+meat chicken spinach lasagna pasta
+
+# Serves
+4-5
+
+# Image
+chicken_spinach_lasagna.png
+
+# Ingredients
+* Pasta plates
+Tomato sauce:
+* 3 chicken fillets (~500g)
+* 1 onion
+* 1 clove of garlic
+* 1 tin of chopped tomatoes
+* Chopped spinach
+Cheese sauce:
+* 400ml milk
+* ~200g grated cheese
+* Butter and flour
+
+# Instructions
+Tomato sauce:
+* Cut up and fry chicken, onion and garlic.
+* Add chopped tomatoes and spinach.
+Cheese sauce:
+* Make a roux from butter and flour.
+* Add milk a bit at a time.
+* Add cheese a bit at a time.
+Lasagna:
+* Spread some tomato sauce liquid in the bottom of a glass oven dish.
+* Add layers of pasta plates, tomato sauce and some cheese sauce.
+* Spread the remaining tomato sauce and cheese sauce on top. Sprinkle with grated cheese.
+* Bake for ~25min on 225°C (fan: 180°C), or until the lasagna looks nice.
+
+# Note
+Serve with white cabbage salad (see recipe).

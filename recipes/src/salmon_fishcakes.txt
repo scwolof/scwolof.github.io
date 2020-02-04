@@ -1,6 +1,8 @@
 # Title
+Salmon fishcakes
 
 # Keywords
+salmon fish
 
 # Description
 
@@ -9,11 +11,7 @@
 # Serves
 
 # Ingredients
-* 
-*
 
 # Instructions
-*
-*
 
 # Note

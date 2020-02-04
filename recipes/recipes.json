@@ -1,5 +1,48 @@
 var recipes_json = [
     {
+        "description": null,
+        "image": "images/chicken_spinach_lasagna.png",
+        "ingredients": [
+            "* Pasta plates",
+            "Tomato sauce:",
+            "* 3 chicken fillets (~500g)",
+            "* 1 onion",
+            "* 1 clove of garlic",
+            "* 1 tin of chopped tomatoes",
+            "* Chopped spinach",
+            "Cheese sauce:",
+            "* 400ml milk",
+            "* ~200g grated cheese",
+            "* Butter and flour"
+        ],
+        "instructions": [
+            "Tomato sauce:",
+            "* Cut up and fry chicken, onion and garlic.",
+            "* Add chopped tomatoes and spinach.",
+            "Cheese sauce:",
+            "* Make a roux from butter and flour.",
+            "* Add milk a bit at a time.",
+            "* Add cheese a bit at a time.",
+            "Lasagna:",
+            "* Spread some tomato sauce liquid in the bottom of a glass oven dish.",
+            "* Add layers of pasta plates, tomato sauce and some cheese sauce.",
+            "* Spread the remaining tomato sauce and cheese sauce on top. Sprinkle with grated cheese.",
+            "* Bake for ~25min on 225\u00b0C (fan: 180\u00b0C), or until the lasagna looks nice."
+        ],
+        "keywords": [
+            "chicken",
+            "lasagna",
+            "meat",
+            "pasta",
+            "spinach"
+        ],
+        "name": "chicken_spinach_lasagna",
+        "note": "Serve with white cabbage salad (see recipe).",
+        "serves": "4-5",
+        "title": "Chicken & spinach lasagna"
+    },
+    {
+        "description": null,
         "image": "images/chicken_chorizo_paella.png",
         "ingredients": [
             "* 2 cloves garlic",
@@ -44,6 +87,21 @@ var recipes_json = [
         "title": "Chicken and chorizo paella"
     },
     {
+        "description": null,
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "fish",
+            "salmon"
+        ],
+        "name": "salmon_fishcakes",
+        "note": null,
+        "serves": null,
+        "title": "Salmon fishcakes"
+    },
+    {
+        "description": null,
         "image": null,
         "ingredients": [
             "* 400g beef (diced casserole meat)",
@@ -77,6 +135,27 @@ var recipes_json = [
         "title": "Port wine beef casserole"
     },
     {
+        "description": null,
+        "image": null,
+        "ingredients": [
+            "Add ingredients."
+        ],
+        "instructions": [
+            "Add instructions."
+        ],
+        "keywords": [
+            "chicken",
+            "meat",
+            "noodle",
+            "soup"
+        ],
+        "name": "chicken_noodle_soup",
+        "note": "Add recipe.",
+        "serves": null,
+        "title": "Chicken & noodle soup"
+    },
+    {
+        "description": null,
         "image": null,
         "ingredients": [
             "* 300g prawns",
@@ -105,6 +184,60 @@ var recipes_json = [
         "title": "Curry prawn pasta"
     },
     {
+        "description": null,
+        "image": null,
+        "ingredients": [
+            "* Salmon fillets",
+            "* Lemon juice",
+            "* Butter",
+            "* Salt, pepper and herbs (e.g. parsley or dill)"
+        ],
+        "instructions": [
+            "* Heat oven to 200\u00b0C (fan).",
+            "* Put the salmon fillets in an oven dish. Put several small knobs of butter on top of each fillet. ",
+            "* Sprinkle the fillets with salt, pepper and herbs. Squeeze a few drops of lemon juice over each fillet.",
+            "* Cover the oven dish with aluminium foil. Bake until done (~18min)."
+        ],
+        "keywords": [
+            "fish",
+            "salmon"
+        ],
+        "name": "oven_baked_salmon",
+        "note": null,
+        "serves": null,
+        "title": "Oven-baked salmon"
+    },
+    {
+        "description": "Swedish minced meat, white cabbage and leek soup. Hearty soup for a cold day.",
+        "image": "images/nikkaluokta_soup.png",
+        "ingredients": [
+            "* ~300g minced (beef) meat",
+            "* 400ml white cabbage (half small-ish mead)",
+            "* 1 small-ish leek",
+            "* A very generous teaspoon of mustard",
+            "* 2 tbsp tomato pur\u00e9e",
+            "* 2 bayleaves",
+            "* 1.25-1.5 litres of water",
+            "* 2-3 beef stock cubes",
+            "* Parsley, soy sauce, salt and pepper"
+        ],
+        "instructions": [
+            "* Wash and thinly cut the leek and cabbage",
+            "* Fry the minced meat in butter in a deep pan. Let the leek and cabbage fry with the minced meat for a bit.",
+            "* Add mustard, tomato pur\u00e9e, bayleaves, water and stock cube. Season with parsley, soy sauce, salt and pepper. Boil for at least 10min."
+        ],
+        "keywords": [
+            "meat",
+            "nikkaluokta",
+            "soup"
+        ],
+        "name": "nikkaluokta_soup",
+        "note": "Serve with bread and cheese.",
+        "serves": "4",
+        "title": "Nikkaluokta soup"
+    },
+    {
+        "description": null,
         "image": "images/swedish_meatballs.png",
         "ingredients": [
             "Meatballs:",
@@ -139,6 +272,131 @@ var recipes_json = [
         "title": "Swedish meatballs"
     },
     {
+        "description": "Really simple recipe that can be varied in lots of ways. Can easily be made vegetarian by removing the prawns.",
+        "image": "images/prawns_veg_couscous.png",
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "couscous",
+            "prawns",
+            "seafood",
+            "simple",
+            "veg",
+            "vegetables"
+        ],
+        "name": "prawns_veg_couscous",
+        "note": "Serve with a dash of sour cream or cr\u00e8me fra\u00eeche.",
+        "serves": null,
+        "title": "Prawns with fried veg and couscous"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": [
+            "* 6 chicken fillets (~800g)",
+            "* 250g shallots",
+            "* 2 tbsp fresh ginger (finely chopped)",
+            "* 2 cloves of garlic (finely chopped)",
+            "* 1 deseeded capsicum (finely chopped), or chili flakes",
+            "* 1 chicken stock cube",
+            "* 300ml cream",
+            "* 100ml sweet chili sauce (Thai)",
+            "* 50ml Heinz chili sauce",
+            "* Lime zest and juice (1/2 lime)",
+            "* Grated parmesan cheese (100-150ml)",
+            "* Butter, oil, salt and pepper"
+        ],
+        "instructions": [
+            "* Fry the chicken fillets in half butter, half oil. Put salt and pepper on the fillets and place them in a greased oven dish.",
+            "* Peel and cut the shallots into segments. Fry them in the remaining butter and oil. Add the ginger, garlic and capsicum/chili flakes, and fry a couple more minutes. Spread over the chicken fillets.",
+            "* Dissolve the stock cube in 50ml water. Add cream, sweet chili sauce, Heinz chili sauce, lime juice and zest, salt and pepper. Pour the sauce over the chicken fillets (make sure the shallots are covered).",
+            "* Bake at 225\u00b0C (fan: 180\u00b0C) in the middle of the oven for 15min. Spread the grated parmesan on top and bake for another ~5min."
+        ],
+        "keywords": [
+            "chicken",
+            "ginger",
+            "meat"
+        ],
+        "name": "spicy_ginger_chicken",
+        "note": "Serve with basmati or jasmine rice.",
+        "serves": "6",
+        "title": "Spicy ginger chicken"
+    },
+    {
+        "description": "Cod fillets in a creamy sauce.",
+        "image": "images/simple_cod.png",
+        "ingredients": [
+            "* ~600g fish, e.g. cod fillets",
+            "* 200ml cr\u00e8me fra\u00eeche",
+            "* ~100ml milk",
+            "* 1 fish stock cube",
+            "* 1 lemon",
+            "* 2 tbsp chopped hazelnuts",
+            "* Some grated parmesan",
+            "* Some chopped (fresh) basil"
+        ],
+        "instructions": [
+            "* Mix the lemon's zest with black pepper and 1/2 lemon's juice. Rub this on the fish fillets.",
+            "* Mix the cr\u00e8me fra\u00eeche, milk and stock cube in a wide pan. Bring to a boil. Put the fish fillets in the pan and let simmer for 5-10min.",
+            "* Sprinkle hazelnuts, parmesan and basil on top."
+        ],
+        "keywords": [
+            "cod",
+            "fish"
+        ],
+        "name": "simple_cod_recipe",
+        "note": "Serve with mashed potatoes and broccoli.",
+        "serves": "4",
+        "title": "Simple cod recipe"
+    },
+    {
+        "description": "The classic Swedish Falu sausage, ketchup-glazed and baked in the oven with cheese, onion and cherry tomatoes.",
+        "image": "images/oven_baked_falu_sausage.png",
+        "ingredients": [
+            "* 1 Falu sausage",
+            "* Grated cheese",
+            "* 1 tbsp tomato ketchup",
+            "* 1-2 yellow onions",
+            "* Cherry tomatoes (approx. 12)",
+            "* (optional) Dijon mustard"
+        ],
+        "instructions": [
+            "* Slice the onion and parboil them (boil in lightly salted water for ~5min)",
+            "* Cut slits into the sausage, ~2cm apart and put the sausage in a greased oven dish.",
+            "* (optional) Spread some Dijon mustard in the slits.",
+            "* Put grated cheese in the slits.",
+            "* Mix the ketchup with 25ml water and glaze the sausage.",
+            "* Add the onions and cherry tomatoes (whole) to the oven dish.",
+            "* Bake for ~30min. The surface of the sausage should be crispy."
+        ],
+        "keywords": [
+            "falu",
+            "falukorv",
+            "meat",
+            "sausage"
+        ],
+        "name": "oven_baked_falu_sausage",
+        "note": "Serve with mashed potatoes.",
+        "serves": "4",
+        "title": "Oven-baked falu sausage"
+    },
+    {
+        "description": "Yum yum",
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "chicken",
+            "feta",
+            "meat"
+        ],
+        "name": "feta_filled_chicken",
+        "note": "Add recipe",
+        "serves": null,
+        "title": "Feta-filled chicken"
+    },
+    {
+        "description": null,
         "image": "images/express_bacon_pasta.png",
         "ingredients": [
             "* 150g head of broccoli",
