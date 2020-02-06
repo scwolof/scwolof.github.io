@@ -1,11 +1,10 @@
 # Title
-Feta-filled chicken
+Potato & leek soup
 
 # Keywords
-meat chicken feta add
+vegetarian potato leek soup add
 
 # Description
-Yum yum
 
 # Image
 
@@ -16,4 +15,3 @@ Yum yum
 # Instructions
 
 # Note
-Add recipe

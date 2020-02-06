@@ -1,0 +1,26 @@
+# Title
+White cabbage salad
+
+# Keywords
+vegetarian side swedish cabbage salad
+
+# Description
+Traditional (?) Swedish pizza side dish
+
+# Image
+white_cabbage_salad.png
+
+# Ingredients
+* 500g white cabbage (~half a small head)
+* 50ml vegetable oil
+* 30ml white wine vinegar
+* 20ml water
+* Salt and plenty of black pepper
+
+# Instructions
+* Shred/chop the white cabbage
+* Mix with other ingredients
+* Add more vinegar, salt and pepper as needed.
+
+# Note
+Serve with lasagna or pizza.

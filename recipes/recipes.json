@@ -92,13 +92,75 @@ var recipes_json = [
         "ingredients": null,
         "instructions": null,
         "keywords": [
+            "add",
+            "bean",
+            "chili",
+            "vegetarian"
+        ],
+        "name": "hree_bean_chili",
+        "note": null,
+        "serves": null,
+        "title": "Three-bean chili"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
             "fish",
+            "fishcakes",
             "salmon"
         ],
         "name": "salmon_fishcakes",
         "note": null,
         "serves": null,
         "title": "Salmon fishcakes"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "pepper",
+            "spinach",
+            "stromboli",
+            "vegetarian"
+        ],
+        "name": "spinach_pepper_stromboli",
+        "note": null,
+        "serves": null,
+        "title": "Spinach & pepper stromboli"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": [
+            "* 1 potato",
+            "* 5cm leek",
+            "* Broccoli",
+            "* Peas",
+            "* Spinach",
+            "* 1/2 onion",
+            "* 2 bayleaves",
+            "* 2 stock cubes",
+            "* 1.5 litres water",
+            "* Salt, pepper, parsley"
+        ],
+        "instructions": null,
+        "keywords": [
+            "add",
+            "broccoli",
+            "soup",
+            "vegetarian"
+        ],
+        "name": "broccoli_soup",
+        "note": "Serve with sourdough bread",
+        "serves": "4",
+        "title": "Broccoli soup"
     },
     {
         "description": null,
@@ -144,9 +206,12 @@ var recipes_json = [
             "Add instructions."
         ],
         "keywords": [
+            "add",
+            "babcia",
             "chicken",
             "meat",
             "noodle",
+            "polish",
             "soup"
         ],
         "name": "chicken_noodle_soup",
@@ -185,6 +250,35 @@ var recipes_json = [
     },
     {
         "description": null,
+        "image": "images/fruit_scones.png",
+        "ingredients": [
+            "* 200g self-raising flour",
+            "* 1 tsp baking powder",
+            "* 50g block butter (softened)",
+            "* 125ml milk",
+            "* 15g sugar",
+            "* 75g dried fruit e.g. raisins"
+        ],
+        "instructions": [
+            "* Sieve the flour and baking powder into a large mixing bowl.",
+            "* Cut the butter into cubes and rub in the butter until the mixture resembles breadcrumbs.",
+            "* Add the sugar and dried fruit and mix.",
+            "* Make a 'well' in the mixture, pour in the milk a little at a time to make a soft but not sticky dough.",
+            "* Knead the dough on a floured surface.",
+            "* Roll out to a circle 3cm thick and cut rounds with a circular cookie cutter",
+            "* Brush with milk and bake at 200\u00b0C for 10-15min until risen and golden."
+        ],
+        "keywords": [
+            "baking",
+            "scones"
+        ],
+        "name": "fruit_scones",
+        "note": "Serve with clotted cream and jam. Jam first!",
+        "serves": "Makes 8 scones.",
+        "title": "Fruit scones"
+    },
+    {
+        "description": null,
         "image": null,
         "ingredients": [
             "* Salmon fillets",
@@ -206,6 +300,71 @@ var recipes_json = [
         "note": null,
         "serves": null,
         "title": "Oven-baked salmon"
+    },
+    {
+        "description": "Homemade pesto from sun-dried tomatoes, parmesan cheese and pine nuts.",
+        "image": null,
+        "ingredients": [
+            "* 1 jar of marinated sun-dried tomatoes in oil.",
+            "* 1 wedge of parmesan cheese (or V\u00e4sterbotten cheese).",
+            "* 1 clove of garlic.",
+            "* (optional) 1 small bag of pine nuts.",
+            "* Olive oil."
+        ],
+        "instructions": [
+            "Put everything in a food processor and blitz it. Add olive oil until you get a nice creamy consistency."
+        ],
+        "keywords": [
+            "pesto"
+        ],
+        "name": "red_pesto",
+        "note": "The pine nuts give the pesto better consistency. They can also be swapped for almonds. Serve the pesto with sourdough bread. If you cannot find find sun-dried tomatoes in oil, pour boiling water over regular sun-dried tomatoes and leave them for 30min. If you cannot find marinated sun-dried tomatoes, add some oregano and a pinch of thyme to the pesto.",
+        "serves": null,
+        "title": "Red pesto"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "leek",
+            "potato",
+            "soup",
+            "vegetarian"
+        ],
+        "name": "potato_leek_soup",
+        "note": null,
+        "serves": null,
+        "title": "Potato & leek soup"
+    },
+    {
+        "description": "Traditional (?) Swedish pizza side dish",
+        "image": "images/white_cabbage_salad.png",
+        "ingredients": [
+            "* 500g white cabbage (~half a small head)",
+            "* 50ml vegetable oil",
+            "* 30ml white wine vinegar",
+            "* 20ml water",
+            "* Salt and plenty of black pepper"
+        ],
+        "instructions": [
+            "* Shred/chop the white cabbage",
+            "* Mix with other ingredients",
+            "* Add more vinegar, salt and pepper as needed."
+        ],
+        "keywords": [
+            "cabbage",
+            "salad",
+            "side",
+            "swedish",
+            "vegetarian"
+        ],
+        "name": "white_cabbage_salad",
+        "note": "Serve with lasagna or pizza.",
+        "serves": null,
+        "title": "White cabbage salad"
     },
     {
         "description": "Swedish minced meat, white cabbage and leek soup. Hearty soup for a cold day.",
@@ -272,6 +431,24 @@ var recipes_json = [
         "title": "Swedish meatballs"
     },
     {
+        "description": "Polish vegetable soup flavoured with sorrel.",
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "babcia",
+            "polish",
+            "sorrel",
+            "soup",
+            "vegetarian"
+        ],
+        "name": "sorrel_soup",
+        "note": null,
+        "serves": null,
+        "title": "Sorrel soup"
+    },
+    {
         "description": "Really simple recipe that can be varied in lots of ways. Can easily be made vegetarian by removing the prawns.",
         "image": "images/prawns_veg_couscous.png",
         "ingredients": null,
@@ -288,6 +465,35 @@ var recipes_json = [
         "note": "Serve with a dash of sour cream or cr\u00e8me fra\u00eeche.",
         "serves": null,
         "title": "Prawns with fried veg and couscous"
+    },
+    {
+        "description": null,
+        "image": "images/warm_potato_salad.png",
+        "ingredients": [
+            "* 1 baking potato",
+            "* 1 courgette",
+            "* 1 onion",
+            "* Sour cream",
+            "* Oil, salt, pepper and parsley"
+        ],
+        "instructions": [
+            "* Cut the potato into small chunks (do not bother peeling)",
+            "* Put the potato chunks on a baking tray. Drizzle with oil and season with salt, pepper and parsley. ",
+            "* Bake the potato chunks at 200\u00b0C for 20-30min. Let them cool for 10min.",
+            "* While the potato is cooking, peel and roughly chop the onion. Cut the courgette into little quarter slices",
+            "* Fry the courgette and onion in oil.",
+            "* Mix the onion, courgette, potato and sour cream."
+        ],
+        "keywords": [
+            "potato",
+            "salad",
+            "side",
+            "vegetarian"
+        ],
+        "name": "warm_potato_salad",
+        "note": "This potato salad goes very well with oven-baked salmon.",
+        "serves": "2",
+        "title": "Warm potato salad"
     },
     {
         "description": null,
@@ -350,6 +556,70 @@ var recipes_json = [
         "title": "Simple cod recipe"
     },
     {
+        "description": "Polish warm beetroots",
+        "image": null,
+        "ingredients": [
+            "* 2 punnets of beetroot (pre-cooked in malt vinegar) - CHECK WEIGHT",
+            "* 30g butter",
+            "* 2 tbsp sugar",
+            "* 1 tbsp flour",
+            "* Small carton single cream - CHECK AMOUNT"
+        ],
+        "instructions": [
+            "* Grate/shred the beetroot",
+            "* Mix all ingredients together over medium heat."
+        ],
+        "keywords": [
+            "add",
+            "babcia",
+            "beetroot",
+            "buraki",
+            "polish",
+            "side",
+            "vegetarian"
+        ],
+        "name": "buraki",
+        "note": null,
+        "serves": null,
+        "title": "Buraki"
+    },
+    {
+        "description": "Polish beetroot soup",
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "babcia",
+            "beetroot",
+            "polish",
+            "soup",
+            "vegetarian"
+        ],
+        "name": "barszcz_soup",
+        "note": null,
+        "serves": null,
+        "title": "Barszcz soup"
+    },
+    {
+        "description": null,
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "dauphinoise",
+            "gratin",
+            "potato",
+            "side",
+            "vegetarian"
+        ],
+        "name": "potato_gratin",
+        "note": null,
+        "serves": null,
+        "title": "Potato gratin"
+    },
+    {
         "description": "The classic Swedish Falu sausage, ketchup-glazed and baked in the oven with cheese, onion and cherry tomatoes.",
         "image": "images/oven_baked_falu_sausage.png",
         "ingredients": [
@@ -386,6 +656,7 @@ var recipes_json = [
         "ingredients": null,
         "instructions": null,
         "keywords": [
+            "add",
             "chicken",
             "feta",
             "meat"
@@ -427,5 +698,100 @@ var recipes_json = [
         "note": "Serve with a smile ;)",
         "serves": "4-6",
         "title": "Express bacon pasta"
+    },
+    {
+        "description": null,
+        "image": "images/vegetable_risotto.png",
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "risotto",
+            "side",
+            "vegetable",
+            "vegetarian"
+        ],
+        "name": "vegetable_risotto",
+        "note": "This risotto goes very well with oven-baked salmon.",
+        "serves": null,
+        "title": "Vegetable risotto"
+    },
+    {
+        "description": "Traditional Swedish chokladbollar",
+        "image": null,
+        "ingredients": null,
+        "instructions": null,
+        "keywords": [
+            "add",
+            "baking",
+            "chocolate"
+        ],
+        "name": "chokladbollar",
+        "note": null,
+        "serves": null,
+        "title": "Chocolate balls"
+    },
+    {
+        "description": null,
+        "image": "images/babcias_beetroot_salad.png",
+        "ingredients": [
+            "* 1 onion",
+            "* 1 small carrot",
+            "* 1 peeled apple",
+            "* 8 small beetroots (pre-cooked in malt vinegar)",
+            "* 2 tsp sugar",
+            "* Salt, pepper"
+        ],
+        "instructions": [
+            "* Grate onion, carrot, apple and beetroots into a bowl",
+            "* Add sugar and season to taste"
+        ],
+        "keywords": [
+            "babcia",
+            "beetroot",
+            "polish",
+            "salad",
+            "side",
+            "vegetarian"
+        ],
+        "name": "babcias_beetroot_salad",
+        "note": null,
+        "serves": null,
+        "title": "Babcia's beetroot salad"
+    },
+    {
+        "description": "Babcia's traditional zasmazka. This soup can be kept in the pan at room temperature for up to 5 days if brought to boiling temperature once each day.",
+        "image": null,
+        "ingredients": [
+            "Vegetables:",
+            "* 1 large potato",
+            "* 1/2 yellow onion",
+            "* 10cm leek",
+            "* 2 celery stalks",
+            "* 1 carrot",
+            "* 1 small tin of baked beans",
+            "* 1 fistful of pearl barley",
+            "* 2 chicken stock cubes",
+            "* 1.5 litres water",
+            "* 2 bayleaves",
+            "* Salt, pepper, dill and parsley",
+            "* Flour and butter (for roux)"
+        ],
+        "instructions": [
+            "* Cut up vegetables in small bits. Fry the veg in butter for a few minutes in a deep pan.",
+            "* Mix boiling water and stock cubes, and add to the pan. Add spices, herbs, bayleaves and pearl barley. Let it boil gently for 40min.",
+            "* Make a roux from the flour and butter. Add to the soup together with the baked beans."
+        ],
+        "keywords": [
+            "babcia",
+            "polish",
+            "soup",
+            "vegetable",
+            "zasmazka"
+        ],
+        "name": "vegetable_soup",
+        "note": "Serve with sourdough bread and cheese.",
+        "serves": "4",
+        "title": "Babcia's vegetable soup"
     }
 ];

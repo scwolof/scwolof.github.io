@@ -2,7 +2,7 @@
 Salmon fishcakes
 
 # Keywords
-salmon fish
+salmon fish fishcakes add
 
 # Description
 

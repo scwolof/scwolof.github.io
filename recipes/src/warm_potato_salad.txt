@@ -1,0 +1,29 @@
+# Title
+Warm potato salad
+
+# Keywords
+vegetarian side potato salad
+
+# Image
+warm_potato_salad.png
+
+# Serves
+2
+
+# Ingredients
+* 1 baking potato
+* 1 courgette
+* 1 onion
+* Sour cream
+* Oil, salt, pepper and parsley
+
+# Instructions
+* Cut the potato into small chunks (do not bother peeling)
+* Put the potato chunks on a baking tray. Drizzle with oil and season with salt, pepper and parsley. 
+* Bake the potato chunks at 200°C for 20-30min. Let them cool for 10min.
+* While the potato is cooking, peel and roughly chop the onion. Cut the courgette into little quarter slices
+* Fry the courgette and onion in oil.
+* Mix the onion, courgette, potato and sour cream.
+
+# Note
+This potato salad goes very well with oven-baked salmon.

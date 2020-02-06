@@ -1,11 +1,10 @@
 # Title
-Feta-filled chicken
+Spinach & pepper Stromboli
 
 # Keywords
-meat chicken feta add
+vegetarian spinach pepper stromboli add
 
 # Description
-Yum yum
 
 # Image
 
@@ -16,4 +15,3 @@ Yum yum
 # Instructions
 
 # Note
-Add recipe

@@ -1,11 +1,11 @@
 # Title
-Feta-filled chicken
+Chocolate balls
 
 # Keywords
-meat chicken feta add
+baking chocolate add
 
 # Description
-Yum yum
+Traditional Swedish chokladbollar
 
 # Image
 
@@ -16,4 +16,3 @@ Yum yum
 # Instructions
 
 # Note
-Add recipe

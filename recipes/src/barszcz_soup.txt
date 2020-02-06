@@ -1,11 +1,11 @@
 # Title
-Feta-filled chicken
+Barszcz soup
 
 # Keywords
-meat chicken feta add
+vegetarian beetroot soup babcia polish add
 
 # Description
-Yum yum
+Polish beetroot soup
 
 # Image
 
@@ -16,4 +16,3 @@ Yum yum
 # Instructions
 
 # Note
-Add recipe

@@ -90,13 +90,13 @@ for(let i = 0; i < recipes_json.length; i++) {
                 for(let j=0; j < recipes_json[index].ingredients.length; j++) {
                     if (recipes_json[index].ingredients[j][0] == '*') {
                         input = document.createElement("input");
-                        input.setAttribute('id', 'input'+j);
+                        input.setAttribute('id', 'ingredient'+j);
                         input.setAttribute('type', 'checkbox');
                         section.appendChild(input)
 
                         txt = document.createElement("label");
                         txt.setAttribute('class', 'modal-section-text');
-                        txt.htmlFor = 'input'+j;
+                        txt.htmlFor = 'ingredient'+j;
                         txt.innerHTML = ' ' + recipes_json[index].ingredients[j]
                             .substring(1,recipes_json[index].ingredients[j].length)
                             .trim();
@@ -126,13 +126,13 @@ for(let i = 0; i < recipes_json.length; i++) {
                 for(let j=0; j < recipes_json[index].instructions.length; j++) {
                     if (recipes_json[index].instructions[j][0] == '*') {
                         input = document.createElement("input");
-                        input.setAttribute('id', 'input'+j);
+                        input.setAttribute('id', 'instruction'+j);
                         input.setAttribute('type', 'checkbox');
                         section.appendChild(input)
 
                         txt = document.createElement("label");
                         txt.setAttribute('class', 'modal-section-text');
-                        txt.htmlFor = 'input'+j;
+                        txt.htmlFor = 'instruction'+j;
                         txt.innerHTML = ' ' + recipes_json[index].instructions[j]
                             .substring(1,recipes_json[index].instructions[j].length)
                             .trim();

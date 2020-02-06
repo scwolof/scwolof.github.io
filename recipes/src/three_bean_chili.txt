@@ -1,11 +1,10 @@
 # Title
-Feta-filled chicken
+Three-bean chili
 
 # Keywords
-meat chicken feta add
+vegetarian bean chili add
 
 # Description
-Yum yum
 
 # Image
 
@@ -16,4 +15,3 @@ Yum yum
 # Instructions
 
 # Note
-Add recipe
