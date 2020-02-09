@@ -121,23 +121,6 @@ var recipes_json = [
     {
         "description": null,
         "image": null,
-        "ingredients": null,
-        "instructions": null,
-        "keywords": [
-            "add",
-            "pepper",
-            "spinach",
-            "stromboli",
-            "vegetarian"
-        ],
-        "name": "spinach_pepper_stromboli",
-        "note": null,
-        "serves": null,
-        "title": "Spinach & pepper stromboli"
-    },
-    {
-        "description": null,
-        "image": null,
         "ingredients": [
             "* 1 potato",
             "* 5cm leek",
@@ -348,7 +331,7 @@ var recipes_json = [
         "name": "pepper_spinach_stromboli",
         "note": null,
         "serves": "4-6",
-        "title": "Red pepper & spinach stromboli"
+        "title": "Red pepper & spinach Stromboli"
     },
     {
         "description": "Homemade pesto from sun-dried tomatoes, parmesan cheese and pine nuts.",
@@ -369,7 +352,7 @@ var recipes_json = [
         "name": "red_pesto",
         "note": "The pine nuts give the pesto better consistency. They can also be swapped for almonds. Serve the pesto with sourdough bread. If you cannot find find sun-dried tomatoes in oil, pour boiling water over regular sun-dried tomatoes and leave them for 30min. If you cannot find marinated sun-dried tomatoes, add some oregano and a pinch of thyme to the pesto.",
         "serves": null,
-        "title": "Red pesto"
+        "title": "Red Pesto"
     },
     {
         "description": null,
@@ -697,7 +680,7 @@ var recipes_json = [
         "name": "oven_baked_falu_sausage",
         "note": "Serve with mashed potatoes.",
         "serves": "4",
-        "title": "Oven-baked falu sausage"
+        "title": "Oven-baked Falu sausage"
     },
     {
         "description": "Yum yum",

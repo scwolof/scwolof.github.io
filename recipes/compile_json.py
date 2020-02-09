@@ -70,7 +70,7 @@ def format_recipe (recipe):
     # Remove breaklines
     tmp = split_strip_join(recipe['title'], '\n')
     # Capital first letter
-    recipe['title'] = tmp.capitalize()
+    recipe['title'] = tmp #.capitalize()
     
     """
     Keywords
