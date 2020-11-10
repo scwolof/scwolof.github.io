@@ -1,4 +1,22 @@
 
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function openDropdownFilterMenu() {
+    
+}
+
+// Hide all elements with class="containerTab", except for the one that matches the clickable grid column
+function openTab(tabName) {
+    v = document.getElementById(tabName).style.display
+    if (v == "block") {
+        document.getElementById(tabName).style.display = "none";
+    } else {
+        document.getElementById(tabName).style.display = "block";
+    }
+    document.getElementById(tabName).toggle("block");
+}
+
+
 function remove_modal_element (id) {
     element = document.getElementById(id);
     if (element) {
@@ -31,6 +49,16 @@ modal_close.onclick = function() {
 window.onclick = function(event) {
     if (event.target == recipe_modal) {
         closeModal();
+    }
+    if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
+        }
     }
 }
 
