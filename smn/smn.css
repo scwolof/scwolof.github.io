@@ -1,3 +1,11 @@
+
+body {
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
   opacity: 0.65;
