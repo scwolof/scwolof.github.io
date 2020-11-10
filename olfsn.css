@@ -41,13 +41,13 @@ body {
   padding: 20px;
 }
 
-.bgimg {
+.home-bgimg {
   position: relative;
   opacity: 0.75;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("./smn/images/cologne2.JPG");
+  background-image: url("images/cologne2.JPG");
   min-height: 100%;
 }
