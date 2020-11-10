@@ -5,8 +5,14 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
+
+@media only screen and (max-device-width: 1366px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+  }
+}
+
 .bgimg-1 {
   background-image: url("./images/copenhagen1.JPG");
   min-height: 75%;
