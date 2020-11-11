@@ -15,17 +15,17 @@
 }
 
 .bgimg-1 {
-  background-image: url("../images/copenhagen1.JPG");
+  background-image: url("images/copenhagen1.JPG");
   min-height: 75%;
 }
 
 .bgimg-2 {
-  background-image: url("../images/lyon2.JPG");
+  background-image: url("images/lyon2.JPG");
   min-height: 75%;
 }
 
 .bgimg-3 {
-  background-image: url("../images/nyc2.JPG");
+  background-image: url("images/nyc2.JPG");
   min-height: 75%;
 }
 
