@@ -8,12 +8,6 @@
   background-size: cover;
 }
 
-@media only screen and (max-device-width: 1366px) {
-  .bgimg-1, .bgimg-2, .bgimg-3 {
-    background-attachment: scroll;
-  }
-}
-
 .bgimg-1 {
   background-image: url("images/copenhagen1.JPG");
   min-height: 75%;
@@ -39,8 +33,8 @@
 }
 
 .caption span.border {
-  background-color: #111;
-  color: #fff;
+  background-color: transparent;
+  color: #f7f7f7;
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
@@ -51,4 +45,37 @@ h3 {
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: #111;
+}
+
+.white-field, .dark-field {
+  text-align: center;
+  padding: 50px 80px;
+  text-align: justify;
+}
+
+.white-field {
+  color: #777;
+  background-color: white;
+}
+
+.dark-field {
+  position: relative;
+  color: #ddd;
+  background-color: #282E34;
+}
+
+
+/*
+MOBILE AND TABLET SPECIFIC
+*/
+@media only screen and (max-device-width: 1366px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+  }
+
+  .white-field, .dark-field {
+    text-align: center;
+    padding: 30px 30px;
+    text-align: justify;
+  }
 }
