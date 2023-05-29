@@ -1,0 +1,56 @@
+<!-- 
+Please contact scwolof before making changes to this file
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>olfsn</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="olfsn.css" rel="stylesheet">
+	<link href="explore.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="overflow-y: hidden">
+<div class="olfsn-header">
+	<a href="index.html" class="olfsn-header-button">olfsn /</a>
+</div>
+
+<div class="home-bgimg">
+<div class="content">
+<div class='selector'>
+  <ul>
+    <li>
+      <input id='c1' type='button' onclick="window.location.href='./recipes/index.html'">
+      <label for='c1'>recipes</label>
+    </li>
+    <li>
+      <input id='c2' type='button' onclick="window.location.href='./smn/index.html'">
+      <label for='c2'>smn</label>
+    </li>
+    <li>
+      <input id='c3' type='button' onclick="window.location.href='./recipes/index.html'">
+      <label for='c3'>recipes</label>
+    </li>
+    <li>
+      <input id='c4' type='button' onclick="window.location.href='./smn/index.html'">
+      <label for='c4'>smn</label>
+    </li>
+    <li>
+      <input id='c5' type='button' onclick="window.location.href='./recipes/index.html'">
+      <label for='c5'>recipes</label>
+    </li>
+    <li>
+      <input id='c6' type='button' onclick="window.location.href='./smn/index.html'">
+      <label for='c6'>smn</label>
+    </li>
+  </ul>
+  <button>Explore</button>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="index.js"></script>
+</div>
+</body>
+</html>
