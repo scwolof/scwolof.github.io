@@ -10,8 +10,8 @@ body, html {
 
 html {
   font-size: 17px;
-  font-family: "Open Sans", sans-serif;
-  background-color: #dfa48f;
+  font-family: "Quicksand";
+  background-color: #CE6D41;
 }
 
 body {
@@ -20,14 +20,23 @@ body {
   overflow-y: auto;
 }
 
-p {
+p1 {
   text-align: center;
+  font-size: 20px;
   max-width: 600px;
   margin: 0 auto;
 }
 
+p {
+  text-align: center;
+  font-family: "Quicksand";
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.4;
+}
+
 .wedding-header {
-  background-color: #dfa48f;
+  background-color: #CE6D41;
   font-family: 'Dancing Script', cursive;
   font-size: 50px;
   text-align: center;
@@ -48,9 +57,11 @@ h2 {
 
 
 h3 {
-  letter-spacing: 5px;
-  text-transform: uppercase;
-  font: 20px "Lato", sans-serif;
+  letter-spacing: 3px;
+  /*text-transform: uppercase;*/
+  /*font: 20px "Lato", sans-serif;*/
+  font: 20px "Libre Baskerville";
+  font-style: italic;
   color: #485b27;
 }
 
@@ -67,7 +78,7 @@ h3 {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
   position: relative;
   opacity: 0.85;
   background-attachment: fixed;
@@ -83,11 +94,16 @@ h3 {
 }
 
 .bgimg-2 {
-  background-image: url("images/hampton_court_house_4.jpg");
+  background-image: url("images/big_hall.jpg");
   min-height: 50%;
 }
 
 .bgimg-3 {
+  background-image: url("images/hampton_court_house_4.jpg");
+  min-height: 50%;
+}
+
+.bgimg-4 {
   background-image: url("images/conservatory.jpg");
   min-height: 50%;
 }
@@ -105,14 +121,15 @@ h3 {
 MOBILE AND TABLET SPECIFIC
 */
 @media only screen and (max-device-width: 1366px) {
-  .bgimg-1, .bgimg-2, .bgimg-3 {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
     background-attachment: scroll;
   }
 
   .white-field {
     text-align: center;
     padding: 30px 30px;
-    text-align: justify;
+    margin: 0 auto;
+    /* text-align: justify; */
   }
 
   iframe {
