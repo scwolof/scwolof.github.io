@@ -35,6 +35,14 @@ p {
   line-height: 1.4;
 }
 
+ul {
+  text-align: left;
+  list-style-position: inside;
+  display: inline-block;
+  margin: 0; 
+  /* padding: 0; */
+}
+
 .wedding-header {
   background-color: #CE6D41;
   font-family: 'Dancing Script', cursive;
@@ -78,7 +86,7 @@ h3 {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
   position: relative;
   opacity: 0.85;
   background-attachment: fixed;
@@ -108,6 +116,16 @@ h3 {
   min-height: 50%;
 }
 
+.bgimg-5 {
+  background-image: url("images/mitre_hotel.jpg");
+  min-height: 50%;
+}
+
+.bgimg-6 {
+  background-image: url("images/hampton_court_house_3.jpg");
+  min-height: 50%;
+}
+
 @media screen and (max-width: 600px) {
   iframe {
       max-width: 100% !important;
@@ -121,7 +139,7 @@ h3 {
 MOBILE AND TABLET SPECIFIC
 */
 @media only screen and (max-device-width: 1366px) {
-  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
     background-attachment: scroll;
   }
 
